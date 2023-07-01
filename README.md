@@ -18,3 +18,10 @@ Run either command (Test.py for CIFAR10 and Test100.py for CIFAR100)
 `python BuildTrees.py`
 `python BuildTrees100.py`
 There are also arguments available for each script to vary the parameters of the run. Refer to the script itself for more details.
+
+The package and versions used are:
+1. torch v1.11.0
+2. torchvision v0.12.0
+3. sklearn v1.2.2
+4. pickle v4.0
+5. numpy v1.22.2
