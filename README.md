@@ -1,5 +1,5 @@
 # Establishing-A-Generic-Methodology-For-Out-Of-Distribution-Image-Detection
-This repository contains the models, data and code for project "Establishing A Generic Methodology For Out-Of-Distribution Image Detection".
+This repository contains the models, data and code for project ("Establishing A Generic Methodology For Out-Of-Distribution Image Detection")[https://drive.google.com/file/d/1-Pv5LuaBYC9b8AfGU315kRaAFsPj1_jv/view?usp=sharing].
 
 Before getting started, unzip [data.zip](https://drive.google.com/file/d/1oB0ARu4fVfIOMrhexbIimFIhuaTxXudm/view?usp=drive_link) and [models.zip](https://drive.google.com/file/d/1dBVHAF5j8XKl68QSRaf9-FyBu67Rp1rN/view?usp=drive_link) and place it in the storage folder.
 
